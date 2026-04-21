@@ -15,7 +15,7 @@ The user should press one of these buttons before the drawing to draw a shape by
 The user should press on this button to doddle while dragging.
 ####  4. Eraser Button (To be updated)
 The user should press on this button be able to erase parts of the drawings.
-####  5. Clear All Button
+####  5. Clear All Button ( 1 Issue to be handled )
 The user should press on this button to clear all of the drawings from the drawing area.
 ####  6. Dotted Checkbox
 If checked it lets the shapes line stroke to be dotted. If not checked, it lets the shapes line strokes to be solid.
