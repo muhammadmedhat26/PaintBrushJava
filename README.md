@@ -13,7 +13,7 @@ The user should press one of these buttons before the drawing to draw a shape by
 • Line
 ####  3. Free Hand Button
 The user should press on this button to doddle while dragging.
-####  4. Eraser Button
+####  4. Eraser Button (To be updated)
 The user should press on this button be able to erase parts of the drawings.
 ####  5. Clear All Button
 The user should press on this button to clear all of the drawings from the drawing area.
